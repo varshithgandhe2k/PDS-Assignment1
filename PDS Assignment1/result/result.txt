@@ -1,0 +1,3 @@
+I have performed the analysis for the given data after cleaning.
+I got the following results
+Mean Accuracy: 0.7083333333333333

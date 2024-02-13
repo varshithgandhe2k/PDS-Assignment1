@@ -1,0 +1,31 @@
+Visualization - 1
+
+I have created boxplot between parental level of education and reading score.
+This visualization makes it easy to analyze the influence of parental education on students reading scores. The key insights include the correlation between higher parental education levels and higher median reading scores. The spread of scores across different education levels provides a nuanced view of the impact.
+In conclusion, this visualization provides a valuable understanding of the relationship between parental education levels and students reading scores. It offers insights that can guide targeted efforts to enhance educational outcomes based on the educational background of students parents.
+
+
+Visualization - 2
+
+This visualization makes it easy to analyze the distribution of math scores. The histogram is a powerful tool for understanding the overall pattern, central tendency, and potential outliers in the dataset.
+In conclusion, this visualization provides a clear representation of the distribution of math scores in the dataset. It offers insights into the central tendency of scores, the prevalence of certain score ranges, and the presence of outliers, providing valuable information for educators and researchers aiming to understand and improve math performance among students.
+
+Visualization - 3
+
+This visualization facilitates an easy analysis of the influence of the test preparation course on math scores. It allows for a quick comparison of average scores between the two groups, providing insights into the potential effectiveness of the test preparation program.
+In conclusion, this visualization provides a straightforward comparison of math scores between students who completed the test preparation course and those who did not. The visual representation suggests a positive impact of the course on average math scores, highlighting its potential role in enhancing students' academic performance in mathematics.
+
+Visualization - 4
+
+This scatter plot makes it easy to analyze the correlation between math and reading scores. The visual representation allows for a quick assessment of the relationship and potential trends between the two variables.
+In conclusion, this scatter plot effectively visualizes the relationship between math and reading scores. The positive correlation suggests a connection between the two academic variables, providing valuable insights for educators and administrators aiming to understand and support students' overall academic development.
+
+Visualization - 5
+
+This line plot facilitates an easy analysis of how reading scores vary across different race/ethnicity categories. It offers a visual representation of trends, making it accessible for identifying potential disparities or patterns in reading performance.
+In conclusion, this line plot effectively communicates the trends in reading scores across various race/ethnicity categories. It provides a visual means for educators and policymakers to identify potential disparities and develop targeted strategies to address and improve reading performance among diverse student populations.
+
+Visualization - 6
+
+This bar chart simplifies the analysis of the distribution of parental education levels. It is particularly effective for understanding the composition of the dataset in terms of the educational background of students' parents.
+In conclusion, this bar chart provides a straightforward overview of the distribution of parental education levels within the dataset. It serves as a foundation for understanding the demographic composition of the student population and can guide educational strategies and resource allocation based on the prevalent parental education levels.
